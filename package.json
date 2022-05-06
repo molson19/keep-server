@@ -1,0 +1,20 @@
+{
+  "name": "keep-server",
+  "version": "1.0.0",
+  "description": "Keep is a note taking service that mirrors Google Keep",
+  "main": "main.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molson19/keep-server.git"
+  },
+  "author": "Michael Olson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molson19/keep-server/issues"
+  },
+  "homepage": "https://github.com/molson19/keep-server#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
