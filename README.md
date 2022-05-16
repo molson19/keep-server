@@ -19,6 +19,6 @@ In general, I'll build the service in JavaScript and look to explore and use ind
 
 ## TODO
 
-- Design the data model
-- Choose a server framework and build out a running local server
-- More...
+- Connect to Database: learn how to scaffold postgresql db
+- create DB models using Sequelize: read Sequelize docs.
+- impl GraphQL APIs: read GraphQL Typescript docs
