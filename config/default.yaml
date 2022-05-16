@@ -1,0 +1,9 @@
+db:
+  port: 7654
+  host: 'localhost'
+  username: 'postgres'
+  password: 'postgress'
+  database: 'keep'
+
+server:
+  port: 3000
